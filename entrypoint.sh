@@ -35,8 +35,8 @@ export SSH_HOME="$HOME_SSH"
 
 echo "[🧾] Configuring Git identity..."
 
-git config --global user.name "Shashank Vashistha"
-git config --global user.email "Shashank.vashistha97@gmail.com"
+git config --global user.name ""
+git config --global user.email ""
 
 echo "[📦] Sandbox is ready. Launching shell..."
 exec /bin/bash
